@@ -1,0 +1,43 @@
+
+<svg width="822px" height="765px" viewBox="0 0 822 765" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="47.3040904%" y1="70.5818753%" x2="47.3040904%" y2="1.69640047%" id="linearGradient-1">
+            <stop stop-color="#C6D7F5" offset="0%"></stop>
+            <stop stop-color="#E1E6FC" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,184.12341 L239.542866,12.2463972 C262.36285,-4.12741808 293.088727,-4.10463415 315.884403,12.3030062 L811.67627,369.159051 C820.748186,375.688742 826.125124,386.183821 826.125124,397.361321 L826.125124,954.502366 C826.125124,977.079764 807.822525,995.382363 785.245127,995.382363 L0,995.382363 L0,184.12341 Z" id="path-2"></path>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#EAEAF7" offset="0%"></stop>
+            <stop stop-color="#EBE9F9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-5">
+            <stop stop-color="#F6F6FE" offset="0%"></stop>
+            <stop stop-color="#F4F5FD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="101.322727%" y1="50%" x2="0%" y2="50%" id="linearGradient-6">
+            <stop stop-color="#ECEBFB" offset="0%"></stop>
+            <stop stop-color="#F1F2FE" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#E2EFFD" offset="0%"></stop>
+            <stop stop-color="#DADFFB" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Contact-Us" transform="translate(0.000000, -78.000000)">
+            <g id="Envelope" transform="translate(-6.000000, 80.000000)">
+                <g id="Path-4">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" stroke="#C7C9EE" stroke-width="2.04399985" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <path d="M824.899455,397.020354 C824.831813,390.996981 823.078652,385.470623 819.639973,380.441281 C817.102652,378.485039 811.659579,378.091208 803.310753,379.259786 L385.395013,677.657624 L826.125124,991.009935 L826.125124,957.931225 C825.375653,590.014018 824.967097,403.043728 824.899455,397.020354 Z" fill="url(#linearGradient-4)" mask="url(#mask-3)"></path>
+                    <path d="M0.0719868547,994.510946 L0.0719868547,797.734791 L246.226108,623.826413 C266.061336,609.812785 292.581164,609.84382 312.383538,623.903834 L834.353198,994.510946 L0.0719868547,994.510946 Z" id="Path-2" stroke="#C7C9EE" stroke-width="2.04399985" fill="url(#linearGradient-5)" mask="url(#mask-3)"></path>
+                    <polygon id="Path-3" stroke="#C7C9EE" stroke-width="2.04399985" fill="url(#linearGradient-6)" mask="url(#mask-3)" points="0 550.820944 173.840648 676.192528 0 799.223844"></polygon>
+                    <rect id="Rectangle" fill="#C7C9EE" mask="url(#mask-3)" x="746.662857" y="378.078292" width="75.6114286" height="2.36298932"></rect>
+                </g>
+                <path d="M0,236.872598 L239.688831,65.3037133 C262.442842,49.016428 293.037294,49.0077782 315.800511,65.2821947 L756,380 L0,380 L0,236.872598 Z" id="Path-3-Copy" stroke="#C7C9EE" stroke-width="2.04399985" fill="url(#linearGradient-7)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
